@@ -39,4 +39,5 @@ jobs:
         with:
       # List of tags
           context: .
+          push: true
           tags: latest
