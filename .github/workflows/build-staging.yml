@@ -39,5 +39,4 @@ jobs:
         with:
       # List of tags
           context: .
-          push: true
           tags: contoso-website/latest
