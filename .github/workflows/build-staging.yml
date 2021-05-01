@@ -40,4 +40,4 @@ jobs:
       # List of tags
           context: .
           push: true
-          tags: latest
+          tags: contoso-website/latest
