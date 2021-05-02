@@ -38,4 +38,5 @@ jobs:
         with:
       # List of tags
           context: .
+          push: true
           tags: contosocontainerregistry3147.azurecr.io/contoso-website:latest
