@@ -39,4 +39,4 @@ jobs:
         with:
       # List of tags
           context: .
-          tags: ${{ secrets.ACR_NAME }}/contoso-website:latest
+          tags: contosocontainerregistry3147.azurecr.io/contoso-website:latest
